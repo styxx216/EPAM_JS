@@ -6,6 +6,7 @@
 // Write a function for calculating the type of argument and type output to the console
 // Write a function that determines whether a number is prime or not
 
+
 let car = Object();
 car.color = 'black';
 car.color = 'green';
