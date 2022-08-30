@@ -3,6 +3,7 @@
 // 3 Divide different types (string / boolean, string / number, number / Boolean)
 // 4 Perform explicit conversion (number, string, boolean)
 
+
 let str = "Hello";
 let num = 1;
 let bool = true;
