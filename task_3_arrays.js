@@ -9,6 +9,7 @@
 // Implement a loop that prints prime numbers to the console
 // Implement a loop that prints odd numbers to the console
 
+
 let movies =['In the Name of the King 2: Two Worlds','Bloodrayne: The Third Reich','1968. Tunnel Rats','Anger of the Dead'];
 let auto = ['Audi','Volkswagen','Honda','Subaru'];
 let names = ['Bob','Alise','Jonh'];
